@@ -1,6 +1,6 @@
 ## Dockerized ElasticMQ for ECS
 
-This is a quick dockerization of [ElasticMQ](https://github.com/adamw/elasticmq) so I could run it in ECS as a service. I've use alpine OpenJDK8 JRE.
+This is a quick dockerization of [ElasticMQ](https://github.com/adamw/elasticmq) so I could run it in ECS as a service. I've used alpine OpenJDK8 JRE.
 
 ## Usage 
 
